@@ -1153,6 +1153,5 @@ def principal():
     print("Dataset gerado com sucesso.")
 
 
-if __name__ == "__main__":
-    principal()
+principal()
 

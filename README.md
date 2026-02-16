@@ -11,7 +11,7 @@ Cada amostra gera um texto de placa com combinacao aleatoria no formato `AAA0A00
 ## O que o projeto gera
 
 - Imagens `.jpg` com placas inseridas em cenarios variados.
-- Rotulos `.txt` no padrao YOLO:
+- Labels `.txt` no padrao YOLO:
   - `0` = placa
   - `1` = caractere
 - Opcionalmente, estrutura de `train/valid/test` com `dataset.yaml`.
