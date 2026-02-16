@@ -2,7 +2,7 @@
 
 Projeto em Python para gerar imagens sinteticas de placas Mercosul com anotacoes no formato YOLO.
 
-## Combinacao aleatoria de placas
+## Combinação aleatoria de placas
 
 Cada amostra gera um texto de placa com combinacao aleatoria no formato `AAA0A00`, sorteando letras e numeros a cada imagem.
 
